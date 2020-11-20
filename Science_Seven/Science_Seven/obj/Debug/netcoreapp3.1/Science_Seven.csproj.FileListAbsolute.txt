@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\Science_Seven\Science_Seven\bin\Debug\netcoreapp3.1\Science_Seven.exe
+C:\Users\Роман\source\repos\Science_Seven\Science_Seven\bin\Debug\netcoreapp3.1\Science_Seven.deps.json
+C:\Users\Роман\source\repos\Science_Seven\Science_Seven\bin\Debug\netcoreapp3.1\Science_Seven.runtimeconfig.json
+C:\Users\Роман\source\repos\Science_Seven\Science_Seven\bin\Debug\netcoreapp3.1\Science_Seven.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\Science_Seven\Science_Seven\bin\Debug\netcoreapp3.1\Science_Seven.dll
+C:\Users\Роман\source\repos\Science_Seven\Science_Seven\bin\Debug\netcoreapp3.1\Science_Seven.pdb
+C:\Users\Роман\source\repos\Science_Seven\Science_Seven\obj\Debug\netcoreapp3.1\Science_Seven.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Science_Seven\Science_Seven\obj\Debug\netcoreapp3.1\Science_Seven.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\Science_Seven\Science_Seven\obj\Debug\netcoreapp3.1\Science_Seven.AssemblyInfo.cs
+C:\Users\Роман\source\repos\Science_Seven\Science_Seven\obj\Debug\netcoreapp3.1\Science_Seven.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Science_Seven\Science_Seven\obj\Debug\netcoreapp3.1\Science_Seven.dll
+C:\Users\Роман\source\repos\Science_Seven\Science_Seven\obj\Debug\netcoreapp3.1\Science_Seven.pdb
+C:\Users\Роман\source\repos\Science_Seven\Science_Seven\obj\Debug\netcoreapp3.1\Science_Seven.genruntimeconfig.cache

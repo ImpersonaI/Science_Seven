@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Science_Seven/1.0.0": {
+        "runtime": {
+          "Science_Seven.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Science_Seven/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
